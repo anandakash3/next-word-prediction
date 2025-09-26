@@ -6,7 +6,5 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-tensorflow-macos 
-tensorflow-metal
 ipykernel
 nltk
